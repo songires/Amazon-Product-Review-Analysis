@@ -1,0 +1,599 @@
+1	its_PRON really_ADV cheap_VERB 	medium
+1	well_ADV 	medium
+1	Android_NOUN Note_NOUN 	medium
+0	Miss_NOUN Represent_NOUN item_NOUN 	medium
+0	kerry_NOUN 	high
+0	FAKE_NOUN Product_NOUN 	medium
+1	Android_NOUN Galaxy_NOUN Note_NOUN 2_NUM 	medium
+1	Well_NOUN build_VERB excellent_NOUN call_NOUN quality_NOUN signal_NOUN 	high
+1	Good_NOUN Phone_NOUN for_ADP the_DET price_NOUN 	high
+1	Exactly_ADV as_ADP list_NOUN 	high
+1	Good_NOUN parts_NOUN 	high
+1	just_ADV what_PRON she_PRON wanted_VERB 	low
+1	comfortable_ADJ but_CONJ does_VERB the_DET job_NOUN 	low
+1	Does_VERB what_PRON it_PRON is_VERB meant_VERB to_PRT do_VERB 	low
+1	happy_NOUN customer_NOUN 	high
+1	Great_NOUN deal_NOUN 	high
+1	Very_NOUN Good_NOUN 	high
+1	Good_NOUN Product_NOUN 	high
+1	great_ADJ value_NOUN 	high
+1	Tough_ADP 	high
+0	Not_ADV Happy_NOUN 	high
+0	Furious_ADJ 	high
+1	PERFECT_NOUN 	low
+0	NOT_ADV OEM_VERB DEFECTIVE_NOUN 	medium
+0	Probably_ADV stolen_VERB 	medium
+1	Just_ADV what_PRON I_PRON wanted_VERB 	high
+1	Fit_NOUN perfect_VERB 	high
+1	Perfect_NOUN gift_VERB for_ADP dad_NOUN from_ADP the_DET kids_NOUN 	high
+1	Like_ADP it_PRON but_CONJ 	high
+0	Didn_NOUN t_VERB fit_NOUN my_PRON phone_NOUN 	high
+1	nice_NOUN screen_VERB 	high
+1	Very_NOUN nice_NOUN 	high
+1	Flower_NOUN Blossom_NOUN Hard_NOUN Cover_NOUN Case_NOUN 	high
+1	Quality_NOUN 	low
+0	Baddddd_NOUN 	medium
+1	Great_NOUN replacement_VERB product_NOUN 	low
+0	Reliability_NOUN is_VERB IMPORTANT_NOUN 	medium
+0	Don_NOUN t_VERB buy_NOUN 	low
+0	Junk_NOUN 	medium
+1	Best_ADJ thing_NOUN ever_ADV invented_VERB and_CONJ cheap_VERB 	medium
+1	excellent_NOUN and_CONJ 100_NUM recommended_VERB security_NOUN 	low
+0	Didn_NOUN t_VERB work_NOUN had_VERB to_PRT buy_VERB another_DET one_NUM at_ADP the_DET store_NOUN 	medium
+0	It_PRON is_VERB missing_VERB essential_ADJ pieces_NOUN in_ADP the_DET case_NOUN like_ADP the_DET molding_NOUN for_ADP the_DET earpiece_NOUN 	low
+0	Worked_NOUN for_ADP 2_NUM minutes_NOUN then_ADV died_VERB 	medium
+1	Not_ADV a_DET direct_ADJ replacement_NOUN 	medium
+1	Handy_NOUN 	high
+1	Awesome_NOUN 	high
+0	It_PRON wasn_VERB t_NOUN as_ADP it_PRON was_VERB supposed_VERB to_PRT be_VERB 	low
+1	Perfect_NOUN 	low
+1	pretty_ADV decent_VERB 	low
+0	cell_NOUN phone_NOUN case_NOUN 	high
+1	not_ADV bad_ADJ for_ADP the_DET price_NOUN 	high
+1	great_ADJ product_NOUN 	high
+0	Didn_NOUN t_VERB work_NOUN for_ADP me_PRON 	low
+1	Good_NOUN bye_NOUN coils_NOUN and_CONJ wires_NOUN 	high
+1	Handy_NOUN and_CONJ attractive_ADJ 	high
+0	Lasted_NOUN for_ADP about_ADP 3_NUM weeks_NOUN 	low
+1	Awesome_NOUN Case_NOUN 	high
+1	Great_NOUN product_NOUN 	high
+1	nexus_NOUN 4_NUM hybrid_NOUN double_ADJ layer_NOUN heavy_ADJ duty_NOUN Armor_NOUN case_NOUN with_ADP kickstand_NOUN 	high
+1	I_PRON like_VERB But_CONJ 	low
+0	screen_NOUN protector_NOUN 	low
+1	Charging_VERB magic_ADJ 	low
+1	Nifty_NOUN gadget_VERB 	high
+1	Great_NOUN fit_VERB cute_ADJ case_NOUN 	high
+1	wonderful_ADJ 	high
+0	Did_NOUN not_ADV receive_VERB my_PRON product_NOUN 	low
+0	Disappointed_ADJ 	high
+0	Thin_NOUN plastic_ADJ tabs_NOUN 	high
+1	Love_NOUN the_DET splash_NOUN of_ADP colors_NOUN 	high
+1	The_DET case_NOUN is_VERB perfect_ADJ for_ADP the_DET Samsung_NOUN Galaxy_NOUN Stratosphere_NOUN II_NOUN 	high
+1	love_ADP it_PRON 	high
+1	Fits_NOUN ok_VERB 	medium
+1	perfect_NOUN 	medium
+1	Phone_NOUN case_NOUN is_VERB perfect_ADJ 	medium
+1	Love_NOUN it_PRON 	high
+1	like_ADP it_PRON 	high
+1	Met_NOUN my_PRON needs_NOUN 	high
+1	Great_NOUN case_NOUN 	high
+1	Excellent_NOUN product_NOUN 	high
+0	Empire_NOUN case_NOUN for_ADP Samsung_NOUN S2_NOUN 	high
+1	Very_NOUN pleased_VERB 	high
+1	Love_NOUN the_DET design_NOUN 	high
+1	samsung_NOUN case_NOUN 	high
+1	Case_NOUN 	high
+1	The_DET best_ADJ for_ADP a_DET slide_NOUN phone_NOUN 	medium
+1	mother_NOUN loves_NOUN it_PRON 	high
+0	Doesn_NOUN t_VERB Work_NOUN 	high
+1	ikross_NOUN 	high
+1	Great_NOUN 	high
+0	Not_ADV too_ADV impressed_VERB 	low
+1	Nice_NOUN sturdy_NOUN case_NOUN 	high
+1	Great_NOUN Quality_NOUN Case_NOUN 	high
+1	Phone_NOUN Armor_NOUN 	medium
+1	Durable_ADJ Phone_NOUN Case_NOUN 	low
+1	pretty_ADV but_CONJ charger_ADJ port_NOUN is_VERB not_ADV wide_ADJ enough_ADV 	high
+1	fincibo_NOUN case_NOUN 	high
+1	Combo_NOUN 4_NUM packs_NOUN cant_ADJ go_NOUN wrong_ADP with_ADP that_DET 	high
+1	Pretty_ADV good_ADJ 	high
+1	lose_NOUN fit_VERB 	high
+0	Hunk_NOUN O_NOUN Junk_NOUN 	high
+0	No_DET Worky_NOUN 	high
+0	didn_NOUN t_VERB like_ADP it_PRON 	high
+1	Works_NOUN as_ADP promised_VERB 	high
+1	Easy_NOUN and_CONJ so_ADV far_ADV reliable_ADJ 	high
+0	Parts_NOUN not_ADV working_VERB properly_ADV 	high
+1	Good_NOUN 	low
+1	as_ADP expected_VERB 	high
+0	One_NUM Star_NOUN 	medium
+1	I_PRON love_VERB my_PRON phone_NOUN even_ADV more_ADV now_ADV 	high
+1	As_ADP promised_VERB 	high
+1	excellent_NOUN product_NOUN 	low
+1	Fits_NOUN well_ADV feels_VERB good_ADJ 	high
+1	soft_ADJ 	low
+1	Love_NOUN it_PRON 	high
+1	Great_NOUN service_NOUN 	high
+1	love_ADP this_DET 	high
+1	Great_NOUN buy_NOUN 	high
+1	Just_ADV okay_VERB 	low
+1	Exactly_ADV what_PRON I_PRON was_VERB looking_VERB for_ADP 	high
+1	perfect_NOUN 	high
+1	vibrant_NOUN teal_NOUN color_NOUN good_NOUN protector_NOUN of_ADP your_PRON phone_NOUN 	low
+1	Good_NOUN looking_NOUN and_CONJ somehow_NOUN durable_ADJ 	medium
+1	great_ADJ price_NOUN 	high
+1	loved_VERB it_PRON 	high
+1	My_PRON new_ADJ Gel_NOUN Case_NOUN 	high
+0	Searched_ADJ Galaxy_NOUN S4_NOUN 	low
+1	Just_ADV What_PRON I_PRON Wanted_NOUN 	high
+1	Arbalest_NOUN 	high
+1	WONDERFUL_NOUN 	high
+1	pretty_ADV 	low
+1	Phone_NOUN cover_NOUN 	high
+1	Looks_NOUN good_VERB 	high
+1	Excellent_NOUN case_NOUN 	high
+1	Very_NOUN cute_ADJ 	low
+1	Cute_NOUN but_CONJ thick_NOUN 	high
+1	Battery_NOUN 	high
+1	R_NOUN aacute_NOUN pidos_NOUN excelente_VERB y_NOUN muy_NOUN bueno_NOUN Gracias_NOUN miles_NOUN 	low
+1	Satisfied_NOUN Customer_NOUN 	low
+1	Very_NOUN Practical_NOUN 	high
+1	Samsung_NOUN case_NOUN 	low
+1	Love_NOUN it_PRON 	high
+0	phone_NOUN cover_NOUN 	low
+1	Awesome_NOUN Case_NOUN 	high
+0	good_ADJ product_NOUN wrong_ADJ size_NOUN 	low
+0	Not_ADV satisfied_VERB with_ADP flip_NOUN case_NOUN 	medium
+0	happy_NOUN 	low
+0	unsatisfied_VERB customer_NOUN 	low
+1	Just_ADV great_ADJ 	high
+1	Case_NOUN Fit_NOUN 	high
+0	color_NOUN wrong_ADP and_CONJ small_ADJ 	low
+0	WRONG_NOUN SIZE_NOUN PHONE_NOUN CASE_NOUN 	low
+0	galaxycase_NOUN 	low
+0	Disappointing_VERB purchase_NOUN 	medium
+1	GOOD_NOUN 	high
+0	do_VERB not_ADV recommend_VERB this_DET product_NOUN 	medium
+1	The_DET product_NOUN it_PRON s_VERB ok_NOUN 	low
+1	Good_NOUN product_NOUN 	low
+0	Leather_NOUN case_NOUN what_PRON 	medium
+0	product_NOUN was_VERB good_ADJ for_ADP the_DET first_ADJ week_NOUN 	medium
+0	CHEAP_NOUN LOOKING_NOUN 	medium
+1	Good_NOUN 	medium
+1	Love_NOUN It_PRON 	high
+1	Great_NOUN Product_NOUN 	low
+0	very_ADV 	low
+0	Quality_NOUN won_VERB t_NOUN hold_NOUN up_ADP too_ADV long_ADV 	low
+0	nope_NOUN 	low
+0	An_DET ill_NOUN fitting_VERB piece_NOUN of_ADP junk_NOUN 	medium
+1	PERFECT_NOUN 	medium
+1	spectacular_ADJ 	high
+1	Sturdy_NOUN and_CONJ a_DET perfect_NOUN fit_NOUN 	high
+1	It_PRON looks_VERB so_ADV nice_ADJ 	high
+0	Flip_NOUN case_NOUN cover_NOUN 	high
+1	Twisted_NOUN 	low
+0	This_DET is_VERB not_ADV leather_ADV 	medium
+0	Wrong_ADJ size_NOUN 	low
+1	Better_NOUN than_ADP I_PRON expected_VERB 	high
+1	Great_NOUN 	high
+1	love_ADP it_PRON 	high
+1	Way_NOUN cheaper_ADJ than_ADP a_DET new_ADJ phone_NOUN 	high
+1	loved_VERB it_PRON 	medium
+1	Cute_NOUN phone_NOUN case_NOUN 	high
+1	Nice_NOUN design_NOUN 	high
+0	cheap_NOUN 	high
+1	good_ADJ case_NOUN 	high
+0	cheap_NOUN 	low
+0	Bad_ADJ quality_NOUN 	medium
+1	I_PRON like_VERB the_DET case_NOUN as_ADP you_PRON do_VERB not_ADV have_VERB to_PRT remove_VERB or_CONJ open_ADJ the_DET cover_NOUN to_PRT charge_VERB the_DET phone_NOUN 	low
+1	Great_NOUN Battery_NOUN 	high
+1	Love_NOUN this_DET case_NOUN 	high
+1	very_ADV good_ADJ 	high
+1	ur_PRON terrific_ADJ 	high
+1	Good_NOUN Battery_NOUN 	high
+1	Worked_NOUN 	high
+1	Great_NOUN Replacement_NOUN 	high
+0	Not_ADV happy_ADJ at_ADP all_DET 	high
+1	Good_NOUN quality_NOUN 	high
+1	It_PRON does_VERB the_DET job_NOUN 	high
+0	Did_NOUN not_ADV work_VERB for_ADP him_PRON 	low
+1	Bad_ADJ Design_NOUN 	high
+1	Awesome_NOUN 	high
+1	Just_ADV as_ADP advertised_VERB 	high
+1	Thanks_NOUN 	medium
+1	Love_NOUN this_DET case_NOUN 	high
+1	coolest_NOUN iphone_NOUN case_NOUN 	high
+1	Awesome_NOUN Cases_NOUN 	medium
+1	My_PRON daughter_NOUN wanted_VERB a_DET retro_NOUN cassette_NOUN cover_NOUN for_ADP her_PRON iPhone_NOUN 	high
+0	Cannot_ADV charge_VERB or_CONJ use_VERB headphones_NOUN 	medium
+1	Love_NOUN the_DET Retro_NOUN 	high
+1	It_PRON s_VERB unique_ADJ and_CONJ functional_ADJ 	high
+1	Amazing_VERB Case_NOUN 	high
+0	An_DET overpriced_VERB case_NOUN 	medium
+1	Snug_NOUN Fit_NOUN for_ADP Phone_NOUN 	high
+1	Adorable_ADJ 	high
+1	Great_NOUN iPhone_NOUN case_NOUN fills_VERB all_DET your_PRON retro_NOUN needs_VERB 	high
+1	Fine_NOUN 	high
+1	Great_NOUN Case_NOUN 	high
+1	Purchased_VERB for_ADP a_DET gift_NOUN looked_VERB great_ADJ 	high
+1	Fools_NOUN everyone_VERB 	high
+1	Best_ADJ iPhone_NOUN case_NOUN in_ADP the_DET world_NOUN 	medium
+1	Fun_NOUN Retro_NOUN iPhone_NOUN Case_NOUN 	high
+1	Love_NOUN my_PRON Rocketcase_NOUN 	high
+1	GREAT_NOUN 	high
+1	love_ADP 	high
+1	Great_NOUN 	high
+0	Way_NOUN too_ADV small_ADJ for_ADP Fox_NOUN can_VERB 	high
+1	Works_NOUN with_ADP iPod_NOUN Touch_NOUN 5_NUM 	low
+0	Bad_ADJ 	high
+1	Life_NOUN proof_ADP case_NOUN 	high
+0	Fake_NOUN 	high
+1	Good_NOUN 	high
+1	good_ADJ box_NOUN 	high
+0	its_PRON well_ADV crap_VERB 	low
+1	Love_NOUN it_PRON 	high
+1	great_ADJ phone_NOUN 	high
+1	Replacement_NOUN phone_NOUN 	high
+1	Superior_NOUN Customer_NOUN Service_NOUN 	high
+1	great_ADJ seller_NOUN and_CONJ phone_NOUN it_PRON is_VERB great_ADJ condition_NOUN 	high
+1	amazing_VERB 	high
+0	Screen_NOUN was_VERB detached_VERB 	high
+1	great_ADJ 	high
+1	Great_NOUN Phone_NOUN Case_NOUN 	high
+1	Great_NOUN 	high
+1	Need_NOUN more_ADJ 	medium
+1	Perfect_NOUN 	low
+1	Love_NOUN it_PRON 	high
+1	Durable_ADJ 	high
+1	Great_NOUN 	high
+1	Perfect_NOUN case_NOUN nice_NOUN and_CONJ sturdy_NOUN 	high
+1	Very_NOUN happy_NOUN with_ADP product_NOUN 	high
+1	Husband_NOUN loves_VERB it_PRON 	high
+1	Cool_NOUN 	high
+1	God_NOUN bless_NOUN America_NOUN 	high
+0	Silly_ADV looking_VERB case_NOUN 	high
+1	Buzz_NOUN n_VERB 	high
+0	Not_ADV as_ADP useful_ADJ as_ADP expected_VERB 	medium
+1	works_NOUN great_VERB and_CONJ fun_NOUN to_PRT use_VERB 	high
+1	Pretty_ADV but_CONJ slippery_ADJ 	high
+1	Very_NOUN pretty_ADV 	high
+1	Great_NOUN buy_NOUN 	medium
+0	Cheap_NOUN 	medium
+1	Product_NOUN was_VERB as_ADP promoted_VERB and_CONJ service_NOUN excellent_NOUN 	medium
+1	Works_NOUN good_VERB 	low
+1	Short_ADJ arm_NOUN band_NOUN 	high
+1	great_ADJ 	low
+1	Love_NOUN it_PRON 	high
+1	easy_ADJ to_PRT load_VERB and_CONJ unload_VERB 	high
+1	Nice_NOUN 	low
+0	Bad_ADJ purchase_NOUN 	medium
+1	it_PRON is_VERB a_DET good_ADJ phone_NOUN but_CONJ the_DET screen_NOUN protector_NOUN glue_NOUN is_VERB does_VERB no_DET work_NOUN 	high
+1	SO_ADP CUTE_NOUN 	medium
+1	Great_NOUN 	low
+1	Love_NOUN this_DET case_NOUN 	high
+1	Great_NOUN 	high
+1	Good_NOUN case_NOUN so_ADP far_ADV 	medium
+1	I_PRON m_VERB in_ADP love_NOUN 10084_NUM 	high
+1	Great_NOUN Gift_NOUN 	high
+1	Pretty_ADV Beautiful_ADJ 	low
+1	Good_NOUN 	high
+1	Gift_NOUN for_ADP sister_NOUN 	high
+0	poor_NOUN quality_NOUN 	low
+1	Mediocre_NOUN 	high
+1	Adorable_ADJ case_NOUN 	high
+0	Bad_ADJ 	low
+1	as_ADP advertised_VERB delivered_VERB promptly_ADV 	low
+1	OtterBox_NOUN 77_NUM 25761_NUM Defender_NOUN Series_NOUN Hydrid_NOUN Case_NOUN and_CONJ Holster_NOUN for_ADP BlackBerry_NOUN phone_NOUN 	low
+1	Quality_NOUN Case_NOUN 	high
+1	I_PRON like_VERB it_PRON 	medium
+1	strong_ADJ 	high
+1	Great_NOUN protection_NOUN but_CONJ 	medium
+1	Great_NOUN protection_NOUN 	medium
+1	Great_NOUN Case_NOUN 	high
+1	Very_NOUN durable_ADJ but_CONJ 	high
+1	Great_NOUN case_NOUN 	high
+1	Not_ADV to_PRT bad_VERB 	high
+1	Rugged_ADJ 	low
+1	thank_NOUN you_PRON 	medium
+1	THE_DET OTTERBOX_NOUN DEFENDER_NOUN IS_NOUN AWESOME_NOUN 	high
+1	Belt_NOUN clip_NOUN defective_ADJ 	high
+1	Works_NOUN well_ADV 	high
+1	dirt_NOUN dust_VERB gets_NOUN behind_ADP screen_NOUN protector_NOUN 	high
+1	defender_NOUN series_NOUN 	medium
+1	Deer_NOUN Tracks_NOUN 	high
+1	love_ADP this_DET case_NOUN 	high
+1	Great_NOUN case_NOUN 	high
+1	Awesome_NOUN 	medium
+1	Surprising_VERB 	high
+1	Nice_NOUN sound_VERB Nice_NOUN case_NOUN 	high
+0	Misleading_VERB 	low
+1	Gift_NOUN for_ADP wife_NOUN 	low
+0	NOT_ADV VERY_NOUN LONG_NOUN USAGE_NOUN 	medium
+1	Ok_NOUN 	high
+1	very_ADV nicw_VERB product_NOUN 	high
+1	It_PRON is_VERB ok_NOUN 	high
+1	Luke_NOUN Bryan_NOUN phone_NOUN case_NOUN 	high
+1	Wrong_ADJ 	high
+1	Luke_NOUN Bryan_NOUN iPhone_NOUN Case_NOUN 	high
+1	looks_NOUN awesome_VERB 	low
+1	Batman_NOUN Cell_NOUN Case_NOUN 	low
+0	really_ADV cool_ADJ but_CONJ damaged_ADJ 	high
+1	TOATS_NOUN ADORBS_VERB 	high
+0	Kind_NOUN of_ADP sucked_ADJ Just_NOUN a_DET little_ADV bit_NOUN lol_NOUN 	low
+1	AMAZING_NOUN 	high
+0	love_ADP it_PRON but_CONJ 8230_NUM 	high
+1	so_ADP cute_ADJ 	low
+0	Bad_ADJ 	high
+0	Bad_ADJ iPhone_NOUN case_NOUN 	high
+0	Waste_NOUN of_ADP money_NOUN 	high
+1	Chloe_NOUN s_VERB review_NOUN 	high
+1	loved_VERB it_PRON 	high
+1	loooveee_NOUN it_PRON 	high
+1	Cute_NOUN cover_NOUN 	high
+0	ehh_NOUN 	high
+1	Fantastic_ADJ 	high
+1	Great_NOUN 	high
+1	Quality_NOUN of_ADP Picture_NOUN 	low
+1	love_ADP 	high
+1	Starbucks_NOUN Ice_NOUN Coffee_NOUN iPhone_NOUN case_NOUN 	medium
+1	Love_NOUN it_PRON 	high
+0	It_PRON is_VERB cheap_VERB don_NOUN t_NOUN buy_NOUN it_PRON 	medium
+1	Love_NOUN it_PRON 	high
+1	Three_NUM Stars_NOUN 	high
+0	Disappointing_VERB 	high
+1	Love_NOUN it_PRON 	high
+1	Alright_NOUN 	high
+1	ITS_NOUN A_DET LOOKER_NOUN 	high
+1	i_PRON m_VERB in_ADP love_NOUN 	medium
+1	I_PRON LOVE_VERB THIS_DET PHONE_NOUN CASE_NOUN 	medium
+1	Good_NOUN but_CONJ not_ADV Great_ADJ 	medium
+1	Nice_NOUN protective_VERB case_NOUN good_ADJ purchase_NOUN 	medium
+1	Love_NOUN it_PRON 	medium
+0	Broke_NOUN after_ADP a_DET week_NOUN 	high
+0	Very_NOUN weak_VERB and_CONJ cheap_VERB looking_VERB and_CONJ sounding_VERB 	high
+1	Broke_NOUN easily_ADV 	medium
+0	Poor_NOUN Quality_NOUN 	high
+0	The_DET front_NOUN of_ADP the_DET case_NOUN covered_VERB the_DET speaker_NOUN 	high
+1	Pretty_ADV I_PRON loved_VERB it_PRON 	high
+1	Love_NOUN it_PRON 	high
+0	Waste_NOUN 	low
+0	Not_ADV happy_ADJ 	medium
+0	Not_ADV satisfied_VERB 	high
+1	Great_NOUN case_NOUN 	medium
+1	cute_ADJ and_CONJ protective_ADJ 	high
+1	Very_NOUN NICE_NOUN 	high
+1	NICE_NOUN 	high
+1	Great_NOUN product_NOUN 	high
+1	Very_NOUN stylish_ADJ 	high
+1	Great_NOUN phone_NOUN case_NOUN 	high
+1	Cute_NOUN and_CONJ functional_ADJ 	high
+1	Finally_ADV lol_VERB 	low
+1	Great_NOUN product_NOUN 	low
+1	Great_NOUN case_NOUN 	high
+1	Beautiful_NOUN case_NOUN fast_NOUN delivery_NOUN 	low
+1	Nice_NOUN 	high
+1	Great_NOUN Product_NOUN 	medium
+0	Don_NOUN t_VERB get_NOUN it_PRON s_VERB a_DET horrible_ADJ buy_NOUN 	medium
+1	Omg_NOUN amazing_NOUN case_NOUN 	high
+1	It_PRON s_VERB okay_NOUN 	high
+1	Great_NOUN 	medium
+0	Broke_NOUN after_ADP 1_NUM week_NOUN 	medium
+1	Great_NOUN great_VERB great_ADJ 	high
+0	The_DET screen_NOUN protector_NOUN looked_VERB used_VERB and_CONJ it_PRON didnt_VERB fit_ADJ 	high
+1	I_PRON love_VERB it_PRON 	high
+1	Excellent_NOUN 	medium
+1	Pretty_ADV and_CONJ protective_ADJ 	high
+1	Tribal_NOUN phone_NOUN case_NOUN 	high
+1	Love_NOUN it_PRON 	high
+0	breaks_NOUN way_VERB too_ADV easily_ADV 	high
+1	Arrived_NOUN super_NOUN fast_NOUN 	high
+1	Super_NOUN cute_NOUN but_CONJ doesn_NOUN t_NOUN fit_NOUN properly_ADV 	medium
+0	Adorable_ADJ but_CONJ cheap_NOUN 	high
+1	full_ADJ coverage_NOUN 	medium
+1	Excellent_NOUN 	high
+1	Love_NOUN it_PRON 	low
+1	case_NOUN 	low
+1	Love_NOUN 	low
+0	CUTE_NOUN DESIGN_NOUN BUT_NOUN DIDN_NOUN T_NOUN LAST_NOUN 	high
+0	Broke_NOUN the_DET first_ADJ day_NOUN A_DET TOTAL_NOUN waste_NOUN on_ADP money_NOUN 	low
+1	Love_NOUN it_PRON 	medium
+1	It_PRON s_VERB awesome_NOUN 	low
+1	good_ADJ case_NOUN 	high
+0	Never_ADV buying_VERB from_ADP him_PRON again_ADV 	high
+1	Cute_NOUN 	medium
+1	Case_NOUN 	medium
+0	Not_ADV happy_ADJ 	low
+1	A_DET Plus_NOUN 	low
+1	Case_NOUN was_VERB great_ADJ 	high
+1	Great_NOUN design_NOUN 	low
+0	Wrong_ADJ Case_NOUN 	low
+1	Batman_NOUN that_ADP me_PRON 	low
+1	My_PRON son_NOUN was_VERB pleased_VERB 	high
+1	I_PRON love_VERB it_PRON 	medium
+0	dont_NOUN order_NOUN 	low
+1	This_DET Batman_NOUN case_NOUN is_VERB really_ADV cool_ADJ 	low
+1	Love_NOUN it_PRON 	high
+1	Ballistic_ADJ Apple_NOUN iphone_NOUN case_NOUN 	high
+1	Best_ADJ phone_NOUN cases_NOUN on_ADP the_DET market_NOUN 	medium
+1	AWESOME_NOUN 	high
+1	Great_NOUN slim_VERB sturdy_NOUN case_NOUN Lock_NOUN button_NOUN hard_ADV to_PRT press_NOUN 	low
+1	great_ADJ case_NOUN 	high
+1	Great_NOUN item_NOUN 	high
+0	LG_NOUN RUMOR_NOUN LX265_NOUN BOTH_NOUN BATTERIES_NOUN WERE_NOUN DEFECTIVE_NOUN 	high
+1	Excellent_NOUN product_NOUN and_CONJ service_NOUN as_ADP always_ADV 	medium
+1	Great_NOUN stuff_NOUN 	low
+1	just_ADV like_ADP Sprint_NOUN 	high
+1	wonderful_ADJ 	low
+1	Works_NOUN 	low
+1	Great_NOUN product_NOUN 	high
+1	new_ADJ battery_NOUN 	low
+1	Just_ADV OK_VERB you_PRON get_VERB what_PRON you_PRON pay_VERB for_ADP 	high
+0	Doesn_NOUN t_VERB keep_VERB a_DET charge_NOUN 	high
+0	new_ADJ really_ADV 	high
+1	Works_NOUN 	high
+1	rumor_NOUN battery_NOUN 	medium
+1	Doug_NOUN B_NOUN 	low
+1	Dead_NOUN batteries_NOUN S_NOUN K_NOUN 	medium
+0	Wrong_ADJ Item_NOUN 	high
+0	Defective_ADJ Battery_NOUN 	high
+1	Good_NOUN Battery_NOUN Life_NOUN 	medium
+0	Save_NOUN Your_PRON Money_NOUN 	high
+0	cell_NOUN phone_NOUN battery_NOUN 	high
+1	It_PRON s_VERB okay_NOUN 	low
+0	NG_NOUN 	high
+1	LG_NOUN Battery_NOUN 	high
+1	Te_NOUN Best_NOUN Deal_NOUN 	high
+1	great_ADJ 	high
+0	Bad_ADJ battery_NOUN Worked_NOUN for_ADP three_NUM weeks_NOUN Never_ADV again_ADV 	high
+1	My_PRON new_ADJ battery_NOUN 	high
+1	Good_NOUN Customer_NOUN Service_NOUN 	high
+1	LG_NOUN Rmnor_NOUN 	high
+1	Money_NOUN saver_ADV 	high
+0	Dead_NOUN battery_NOUN 	high
+1	Great_NOUN for_ADP the_DET price_NOUN 	high
+1	LG_NOUN LGIP_NOUN 340N_NUM BATTERY_NOUN 	high
+0	Bad_ADJ merchandise_NOUN 	high
+1	cool_NOUN 	high
+0	Broken_NOUN on_ADP arrival_NOUN 	low
+1	Good_NOUN fit_VERB bad_ADJ picture_NOUN 	high
+1	Phone_NOUN leash_NOUN 	low
+1	Bling_VERB with_ADP Style_NOUN 	high
+1	Nice_NOUN color_NOUN 	high
+1	Great_NOUN 	high
+1	phone_NOUN case_NOUN 	high
+1	Like_ADP it_PRON 	high
+1	basic_ADJ 	high
+1	ccase_NOUN for_ADP my_PRON phone_NOUN 	high
+1	great_ADJ 	medium
+1	Beautiful_NOUN 	high
+1	L35g_NOUN Dynamic_NOUN L38c_NOUN Hard_NOUN Cover_NOUN Case_NOUN 	high
+1	wonderful_ADJ 	high
+1	Good_NOUN case_NOUN 	high
+1	good_ADJ case_NOUN 	high
+1	Great_NOUN Price_NOUN 	high
+1	love_ADP my_PRON phone_NOUN now_ADV 	high
+1	Good_NOUN case_NOUN but_CONJ lots_NOUN of_ADP scratches_NOUN 	high
+1	amazing_VERB phone_NOUN case_NOUN 	high
+1	about_ADP phone_NOUN cover_NOUN 	high
+1	Best_ADJ phone_NOUN cover_ADV for_ADP the_DET cost_NOUN 	high
+1	Dream_NOUN Wireless_NOUN for_ADP IPhone_NOUN 5_NUM 	high
+0	Not_ADV as_ADP advertised_VERB 	high
+1	Exactly_ADV what_PRON I_PRON wanted_VERB 	low
+0	Just_ADV ok_VERB 	medium
+1	Great_NOUN Value_NOUN 	high
+1	Perfect_NOUN fit_VERB 	high
+1	Unbelievable_ADJ Value_NOUN 	high
+0	too_ADV wide_ADJ for_ADP iphone_NOUN 5_NUM 	low
+1	Serves_NOUN the_DET purpose_NOUN 	high
+1	Nice_NOUN one_NUM 	medium
+1	Just_ADV what_PRON I_PRON ordered_VERB 	high
+1	Fits_NOUN 5c_NUM 	high
+1	GREAT_NOUN 	medium
+1	How_ADV to_PRT manual_ADJ 	medium
+1	not_ADV too_ADV good_ADJ not_ADV too_ADV bad_ADJ so_ADV its_PRON okay_NOUN 	high
+0	Not_ADV convenient_ADJ 	high
+1	Awesome_NOUN 	low
+0	Hard_NOUN to_PRT remove_VERB your_PRON cell_NOUN phone_NOUN using_VERB only_ADV one_NUM hand_NOUN 	high
+1	This_DET unit_NOUN stays_VERB put_VERB 	medium
+1	Strong_ADJ Bond_NOUN 	medium
+1	Great_NOUN product_NOUN 	medium
+1	Worked_NOUN just_ADV like_ADP it_PRON said_VERB 	low
+1	iottie_NOUN 	medium
+1	It_PRON s_VERB fine_NOUN 	medium
+1	Easy_NOUN to_PRT use_VERB hold_NOUN really_ADV good_ADJ 	high
+1	perfect_NOUN 	medium
+1	Awesome_NOUN product_NOUN 	medium
+0	Lost_NOUN the_DET grip_NOUN in_ADP just_ADV 2_NUM weeks_NOUN 	medium
+1	I_PRON use_VERB it_PRON every_DET day_NOUN 	high
+1	Nice_NOUN Car_NOUN Mount_NOUN Holder_NOUN 	high
+0	Total_ADJ POS_NOUN 	high
+0	I_PRON returned_VERB it_PRON 	medium
+1	eh_NOUN 	low
+1	Love_NOUN it_PRON 	low
+1	Solid_NOUN 	high
+1	Car_NOUN mount_NOUN holder_NOUN for_ADP iphone_NOUN 	medium
+1	Very_NOUN stable_NOUN 	high
+1	Love_NOUN it_PRON 	medium
+1	Buy_NOUN this_DET one_NUM 	high
+1	Love_NOUN it_PRON 	medium
+1	hasn_NOUN t_VERB been_VERB broken_VERB yet_ADV 	high
+1	Good_NOUN and_CONJ easy_ADJ to_PRT use_VERB 	high
+1	Solid_NOUN Construction_NOUN 	medium
+1	Fantastic_ADJ 	high
+1	This_DET will_VERB stick_VERB 	low
+1	Love_NOUN it_PRON 	high
+1	Cute_NOUN case_NOUN 	high
+0	connector_NOUN broke_VERB and_CONJ car_NOUN charger_NOUN never_ADV worked_VERB 	low
+0	Dust_NOUN Plug_NOUN 	high
+1	These_DET are_VERB great_ADJ 	high
+1		low
+1	so_ADP cute_ADJ 	high
+1	So_ADP girlie_NOUN 	high
+1	What_PRON did_VERB the_DET fox_NOUN say_VERB 	high
+1	Turtle_NOUN Dust_NOUN plug_NOUN 	medium
+0	It_PRON broke_VERB 	high
+0	Disappointed_ADJ 	high
+1	Cheap_NOUN but_CONJ work_NOUN 	low
+1	Love_NOUN it_PRON 	high
+1	case_NOUN 	high
+1	iPhone_NOUN 5_NUM case_NOUN 	low
+1	like_ADP it_PRON 	high
+1	Its_PRON not_ADV bad_ADJ 	low
+1	Correct_NOUN 	low
+1	Generally_ADV OK_VERB 	high
+0	Anti_NOUN glare_VERB screen_VERB feedback_NOUN 	high
+1	Not_ADV Bad_ADJ for_ADP the_DET price_NOUN 	high
+1	good_ADJ 	high
+1	nice_NOUN 	low
+1	excellent_NOUN product_NOUN 	high
+1	Great_NOUN Case_NOUN 	medium
+1	love_ADP it_PRON 	low
+1	Sweet_NOUN 	high
+1	This_DET case_NOUN is_VERB ok_NOUN 	high
+1	Perfect_NOUN 	medium
+1	Belt_NOUN clip_NOUN doesn_NOUN t_NOUN fit_NOUN face_NOUN out_ADP 	low
+1	awesome_NOUN 	high
+0	Really_ADV nice_ADJ case_NOUN but_CONJ intolerable_ADJ smell_NOUN 	low
+0	I_PRON don_VERB t_ADJ like_ADP it_PRON 	medium
+1	Strong_ADJ and_CONJ sturdy_NOUN 	medium
+1	very_ADV good_ADJ case_NOUN 	high
+1	smelly_ADV case_VERB great_ADJ case_NOUN 	high
+1	EAGLE_NOUN CELL_NOUN HYBRID_NOUN RUGGEG_NOUN TUFFSUIT_NOUN 	low
+1	A_DET great_ADJ case_NOUN at_ADP a_DET great_ADJ value_NOUN 	low
+1	awesome_NOUN 	high
+1	great_ADJ case_NOUN 	high
+0	Didn_NOUN t_VERB fit_NOUN over_ADP plug_NOUN less_NOUN charging_VERB battery_NOUN 	low
+1	I_PRON love_VERB it_PRON 	high
+1	great_ADJ value_NOUN for_ADP the_DET price_NOUN 	high
+1	Good_NOUN case_NOUN for_ADP the_DET 1020_NUM 	high
+1	Not_ADV great_ADJ Makes_NOUN it_PRON hard_ADV to_PRT press_NOUN buttons_NOUN for_ADP power_NOUN and_CONJ volume_NOUN control_NOUN 	medium
+1	ABSOLETLY_ADV WONDERFUL_NOUN 	high
+1	Nice_NOUN case_NOUN 	low
+1	awesome_NOUN 	high
+1	Best_ADJ Phone_NOUN Ever_NOUN 	high
+1	Great_NOUN Deal_NOUN 	low
+1	Just_ADV good_ADJ 	high
+0	AVOID_NOUN 	medium
+1	It_PRON really_ADV is_VERB unbreakable_ADJ compaired_VERB to_PRT the_DET original_ADJ 	high
+1	I_PRON 	low
+1	What_PRON to_PRT do_VERB with_ADP the_DET other_ADJ 9_NUM 	medium
+1	No_DET break_NOUN Replacement_NOUN Ear_NOUN Hook_NOUN Compatiblity_NOUN Review_NOUN 	medium
+1	Better_NOUN than_ADP the_DET stock_NOUN ones_NOUN the_DET headset_NOUN brought_VERB 	medium
+0	10_NUM No_DET break_NOUN Replacement_NOUN Ear_NOUN Hook_NOUN Compatiblity_NOUN Samsung_NOUN HM6000_NOUN HM1300_NOUN HM1900_NOUN 	low
+1	Good_NOUN product_NOUN 	medium
+1	Finely_ADV found_VERB ones_NOUN 	low
+1	excellent_NOUN 	low
+0	ear_NOUN pieces_NOUN 	high
+1	easy_ADJ to_PRT use_VERB 	low
+1	Thank_NOUN you_PRON 	low
+1	It_PRON hasn_VERB t_NOUN broken_VERB yet_ADV 	high
+1	works_NOUN well_ADV 	medium
+1	Could_VERB have_VERB been_VERB a_DET five_NUM star_NOUN if_ADP ear_ADJ loops_NOUN weren_VERB t_NOUN loose_NOUN 	high
+1	nice_NOUN fit_VERB 	low
+1	good_ADJ stuff_NOUN 	medium
+1	great_ADJ product_NOUN 	medium
+1	Does_VERB the_DET job_NOUN 	medium
+0	HM1300_NOUN ear_NOUN hook_NOUN 	low
+1	Not_ADV as_ADP good_ADJ as_ADP original_ADJ 	medium
+1	Phone_NOUN case_NOUN 	high
+1	DOES_VERB THE_DET JOB_NOUN 	high
